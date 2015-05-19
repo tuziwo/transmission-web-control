@@ -27,6 +27,7 @@
 
 ### 下载列表
  - 可通过以下地址获取最新版的程序：
+ - git clone https://github.com/tuziwo/transmission-web-control.git
  - https://github.com/ronggang/transmission-web-control/raw/master/release/transmission-control-full.tar.gz
  - 或到下载安装脚本，此脚本只需要下载一次，以后只需要执行即可
  - https://github.com/ronggang/transmission-web-control/raw/master/release/tr-control-easy-install.sh
